@@ -1,8 +1,8 @@
 # Damagedetection
 Problem Description and approach:
 * The problem statement is to assess damage post hurricane.
-* We have labelled satellite images of building of different sizes and quality.
-* We need to classify building using ML model to correctly identify damaged building.
+* We have satellite images of building of different sizes and quality.
+* We needed to classify building using ML model to correctly identify damaged building.
 
 Solution Approach:
 * Given image data we need to clean them and reshape the size for optimal computation.
